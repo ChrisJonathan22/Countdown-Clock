@@ -1,0 +1,32 @@
+body {
+        background-color: lightblue;
+}
+
+#title {
+        color: teal;
+        background-color: lightgrey;
+        text-align: center;
+        width: auto;
+}
+
+table {
+        background-color: teal;
+        color: white;
+}
+
+
+.countdownContainer {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        text-align: center;
+        background-color: teal;
+        border: 1px soild lightgrey;
+        padding: 10px;
+        box-shadow:  0 0 5px 3px #ccc;
+}
+
+.info {
+        font-size: 40px;
+}
